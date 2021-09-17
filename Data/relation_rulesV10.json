@@ -1,0 +1,1955 @@
+[
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "DISEASE",
+		"relation" : "Aggravate",
+		"probability" : 0.6020,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DISEASE",
+		"relation" : "Improve",
+		"probability" : 0.7934,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "DISEASE",
+		"relation" : "Related health issue",
+		"probability" : 0.4030,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "SYMPTOM",
+		"relation" : "Related health issue",
+		"probability" : 0.2971,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "PROTEIN",
+		"relation" : "Inhibition",
+		"probability" : 0.2743,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "SYMPTOM",
+		"relation" : "Increase symptoms",
+		"probability" : 0.7861,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "ANATOMY",
+		"relation" : "Aggravate",
+		"probability" : 0.0613,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "SYMPTOM",
+		"relation" : "Reduce symptoms",
+		"probability" : 0.9413,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "ANATOMY",
+		"relation" : "Aggravate",
+		"probability" : 0.0596,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "DISEASE",
+		"relation" : "Aggravate",
+		"probability" : 0.0587,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "PROTEIN",
+		"relation" : "Inhibition",
+		"probability" : 0.1597,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "DISEASE",
+		"relation" : "Aggravate",
+		"probability" : 0.0506,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "PROTEIN",
+		"relation" : "Inhibition",
+		"probability" : 0.1487,
+		
+		
+	},
+	{
+		"type_A" : "SYMPTOM",
+		"type_B" : "DISEASE",
+		"relation" : "Related health issue",
+		"probability" : 0.0840,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "ANATOMY",
+		"relation" : "Inhibition",
+		"probability" : 0.1240,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "PROTEIN",
+		"relation" : "Stimulation",
+		"probability" : 0.1908,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Related health issue",
+		"probability" : 0.0751,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "SYMPTOM",
+		"relation" : "Aggravate",
+		"probability" : 0.0367,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "PROTEIN",
+		"relation" : "Stimulation",
+		"probability" : 0.1377,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Aggravate",
+		"probability" : 0.0250,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "DISEASE",
+		"relation" : "Aggravate",
+		"probability" : 0.0247,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DISEASE",
+		"relation" : "Aggravate",
+		"probability" : 0.0244,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "SYMPTOM",
+		"relation" : "Aggravate",
+		"probability" : 0.0228,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "DISEASE",
+		"relation" : "Related health issue",
+		"probability" : 0.0463,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "ANATOMY",
+		"relation" : "Improve",
+		"probability" : 0.0650,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Activation",
+		"probability" : 0.8623,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "DISEASE",
+		"relation" : "Stimulation",
+		"probability" : 0.1009,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "COMPOUND",
+		"relation" : "Inhibition",
+		"probability" : 0.0594,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Stimulation",
+		"probability" : 0.0821,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Improve",
+		"probability" : 0.0452,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "PROTEIN",
+		"relation" : "Upregulation",
+		"probability" : 0.5000,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "DISEASE",
+		"relation" : "No effect",
+		"probability" : 0.3397,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "GENE",
+		"relation" : "Inhibition",
+		"probability" : 0.0368,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "DISEASE",
+		"relation" : "Stimulation",
+		"probability" : 0.0547,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "PROTEIN",
+		"relation" : "Binding",
+		"probability" : 0.8356,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "SYMPTOM",
+		"relation" : "Related health issue",
+		"probability" : 0.0202,
+		
+		
+	},
+	{
+		"type_A" : "SYMPTOM",
+		"type_B" : "SYMPTOM",
+		"relation" : "Related health issue",
+		"probability" : 0.0199,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "PROTEIN",
+		"relation" : "Stimulation",
+		"probability" : 0.0479,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "SYMPTOM",
+		"relation" : "Increase symptoms",
+		"probability" : 0.0909,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Stimulation",
+		"probability" : 0.0436,
+		
+		
+	},
+	{
+		"type_A" : "SYMPTOM",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Related health issue",
+		"probability" : 0.0171,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DISEASE",
+		"relation" : "No effect",
+		"probability" : 0.2392,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "PROTEIN",
+		"relation" : "Inhibition",
+		"probability" : 0.0257,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "PROTEIN",
+		"relation" : "Upregulation",
+		"probability" : 0.2738,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "SYMPTOM",
+		"relation" : "Increase symptoms",
+		"probability" : 0.0713,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "DISEASE",
+		"relation" : "Aggravate",
+		"probability" : 0.0066,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "DISEASE",
+		"relation" : "Improve",
+		"probability" : 0.0198,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "COMPOUND",
+		"relation" : "Inhibition",
+		"probability" : 0.0194,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "DISEASE",
+		"relation" : "Inhibition",
+		"probability" : 0.0194,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "COMPOUND",
+		"relation" : "Inhibition",
+		"probability" : 0.0194,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "DISEASE",
+		"relation" : "Improve",
+		"probability" : 0.0173,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.1875,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.1875,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "ANATOMY",
+		"relation" : "Aggravate",
+		"probability" : 0.0051,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Inhibition",
+		"probability" : 0.0152,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Aggravate",
+		"probability" : 0.0046,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "COMPOUND",
+		"relation" : "Stimulation",
+		"probability" : 0.0222,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "PROTEIN",
+		"relation" : "Activation",
+		"probability" : 0.1884,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Related health issue",
+		"probability" : 0.0082,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "ANATOMY",
+		"relation" : "Inhibition",
+		"probability" : 0.0121,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "DISEASE",
+		"relation" : "Stimulation",
+		"probability" : 0.0188,
+		
+		
+	},
+	{
+		"type_A" : "INTERVENTION_OR_PROCEDURE",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.1250,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "ANATOMY",
+		"relation" : "Inhibition",
+		"probability" : 0.0110,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DISEASE",
+		"relation" : "Inhibition",
+		"probability" : 0.0105,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "PROTEIN",
+		"relation" : "Deactivation",
+		"probability" : 0.6667,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "ANATOMY",
+		"relation" : "Stimulation",
+		"probability" : 0.0171,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "SYMPTOM",
+		"relation" : "Increase symptoms",
+		"probability" : 0.0357,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Stimulation",
+		"probability" : 0.0163,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Inhibition",
+		"probability" : 0.0100,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "COMPOUND",
+		"relation" : "Stimulation",
+		"probability" : 0.0163,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "SYMPTOM",
+		"relation" : "Reduce symptoms",
+		"probability" : 0.0480,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "COMPOUND",
+		"relation" : "Inhibition",
+		"probability" : 0.0089,
+		
+		
+	},
+	{
+		"type_A" : "CELL_LINE",
+		"type_B" : "PROTEIN",
+		"relation" : "Upregulation",
+		"probability" : 0.1012,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.0966,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "ANATOMY",
+		"relation" : "Stimulation",
+		"probability" : 0.0137,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "PROTEIN",
+		"relation" : "No effect",
+		"probability" : 0.0766,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "COMPOUND",
+		"relation" : "Stimulation",
+		"probability" : 0.0137,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "GENE",
+		"relation" : "Upregulation",
+		"probability" : 0.0893,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "DISEASE",
+		"relation" : "No effect",
+		"probability" : 0.0718,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "PROTEIN",
+		"relation" : "Stimulation",
+		"probability" : 0.0128,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "SYMPTOM",
+		"relation" : "Increase symptoms",
+		"probability" : 0.0267,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "PROTEIN",
+		"relation" : "Downregulation",
+		"probability" : 0.4545,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Stimulation",
+		"probability" : 0.0111,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.0682,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Aggravate",
+		"probability" : 0.0020,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Aggravate",
+		"probability" : 0.0019,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "BACTERIA",
+		"relation" : "Inhibition",
+		"probability" : 0.0053,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "BACTERIA",
+		"relation" : "Inhibition",
+		"probability" : 0.0053,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "PROTEIN",
+		"relation" : "No effect",
+		"probability" : 0.0431,
+		
+		
+	},
+	{
+		"type_A" : "PLANT",
+		"type_B" : "DISEASE",
+		"relation" : "Aggravate",
+		"probability" : 0.0015,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "BACTERIA",
+		"relation" : "Stimulation",
+		"probability" : 0.0077,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "PROTEIN",
+		"relation" : "Stimulation",
+		"probability" : 0.0068,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "SYMPTOM",
+		"relation" : "No effect",
+		"probability" : 0.0383,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "PROTEIN",
+		"relation" : "Stimulation",
+		"probability" : 0.0068,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "GENE",
+		"relation" : "Binding",
+		"probability" : 0.1096,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Inhibition",
+		"probability" : 0.0042,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "BACTERIA",
+		"relation" : "Inhibition",
+		"probability" : 0.0042,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "PROTEIN",
+		"relation" : "No effect",
+		"probability" : 0.0383,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "PROTEIN",
+		"relation" : "Downregulation",
+		"probability" : 0.2121,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "BACTERIA",
+		"relation" : "Stimulation",
+		"probability" : 0.0060,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Stimulation",
+		"probability" : 0.0060,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "COMPOUND",
+		"relation" : "Weak",
+		"probability" : 0.0398,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "PROTEIN",
+		"relation" : "Binding",
+		"probability" : 0.0959,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "SYMPTOM",
+		"relation" : "Reduce symptoms",
+		"probability" : 0.0187,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "PROTEIN",
+		"relation" : "Deactivation",
+		"probability" : 0.2000,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Binding",
+		"probability" : 0.0822,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Stimulation",
+		"probability" : 0.0051,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "BACTERIA",
+		"relation" : "Stimulation",
+		"probability" : 0.0051,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.0341,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "PROTEIN",
+		"relation" : "Inhibition",
+		"probability" : 0.0032,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "DISEASE",
+		"relation" : "Improve",
+		"probability" : 0.0025,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "COMPOUND",
+		"relation" : "Stimulation",
+		"probability" : 0.0043,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "PROTEIN",
+		"relation" : "Stimulation",
+		"probability" : 0.0043,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "PROTEIN",
+		"relation" : "Downregulation",
+		"probability" : 0.1515,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Upregulation",
+		"probability" : 0.0298,
+		
+		
+	},
+	{
+		"type_A" : "VIRUS",
+		"type_B" : "DISEASE",
+		"relation" : "Aggravate",
+		"probability" : 0.0008,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "DISEASE",
+		"relation" : "Improve",
+		"probability" : 0.0025,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Upregulation",
+		"probability" : 0.0298,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "INTERVENTION_OR_PROCEDURE",
+		"relation" : "Weak",
+		"probability" : 0.0284,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "SYMPTOM",
+		"relation" : "No effect",
+		"probability" : 0.0239,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Stimulation",
+		"probability" : 0.0043,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "PROTEIN",
+		"relation" : "Weak",
+		"probability" : 0.0284,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "No effect",
+		"probability" : 0.0239,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "PROTEIN",
+		"relation" : "Weak",
+		"probability" : 0.0227,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Improve",
+		"probability" : 0.0020,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "SYMPTOM",
+		"relation" : "Increase symptoms",
+		"probability" : 0.0071,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "SYMPTOM",
+		"relation" : "No effect",
+		"probability" : 0.0191,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Weak",
+		"probability" : 0.0227,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "BACTERIA",
+		"relation" : "Stimulation",
+		"probability" : 0.0034,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "SYMPTOM",
+		"relation" : "Weak",
+		"probability" : 0.0170,
+		
+		
+	},
+	{
+		"type_A" : "SYMPTOM",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.0170,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "ANATOMY",
+		"relation" : "Improve",
+		"probability" : 0.0015,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Weak",
+		"probability" : 0.0170,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "DIET",
+		"relation" : "Weak",
+		"probability" : 0.0170,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Activation",
+		"probability" : 0.0217,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "PROTEIN",
+		"relation" : "Inhibition",
+		"probability" : 0.0016,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "CELL_LINE",
+		"relation" : "Stimulation",
+		"probability" : 0.0026,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.0170,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "SYMPTOM",
+		"relation" : "Reduce symptoms",
+		"probability" : 0.0080,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "ANATOMY",
+		"relation" : "No effect",
+		"probability" : 0.0144,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "METABOLISM",
+		"relation" : "Improve",
+		"probability" : 0.0010,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Stimulation",
+		"probability" : 0.0017,
+		
+		
+	},
+	{
+		"type_A" : "INTERVENTION_OR_PROCEDURE",
+		"type_B" : "DISEASE",
+		"relation" : "No effect",
+		"probability" : 0.0096,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "ANATOMY",
+		"relation" : "No effect",
+		"probability" : 0.0096,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "DISEASE",
+		"relation" : "No effect",
+		"probability" : 0.0096,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Weak",
+		"probability" : 0.0114,
+		
+		
+	},
+	{
+		"type_A" : "ANATOMY",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.0114,
+		
+		
+	},
+	{
+		"type_A" : "PLANT",
+		"type_B" : "DISEASE",
+		"relation" : "No effect",
+		"probability" : 0.0096,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "SYMPTOM",
+		"relation" : "Weak",
+		"probability" : 0.0114,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "METABOLISM",
+		"relation" : "Improve",
+		"probability" : 0.0010,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "METABOLISM",
+		"relation" : "Inhibition",
+		"probability" : 0.0011,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Inhibition",
+		"probability" : 0.0011,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "SYMPTOM",
+		"relation" : "Weak",
+		"probability" : 0.0114,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "PROTEIN",
+		"relation" : "Downregulation",
+		"probability" : 0.0606,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "BACTERIA",
+		"relation" : "Stimulation",
+		"probability" : 0.0017,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "ANATOMY",
+		"relation" : "No effect",
+		"probability" : 0.0096,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "FOOD_OR_FOOD_PRODUCT",
+		"relation" : "Weak",
+		"probability" : 0.0114,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "GENE",
+		"relation" : "Stimulation",
+		"probability" : 0.0017,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "PROTEIN",
+		"relation" : "Activation",
+		"probability" : 0.0145,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Weak",
+		"probability" : 0.0114,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "COMPOUND",
+		"relation" : "Inhibition",
+		"probability" : 0.0011,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "METABOLISM",
+		"relation" : "Stimulation",
+		"probability" : 0.0017,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "COMPOUND",
+		"relation" : "Stimulation",
+		"probability" : 0.0017,
+		
+		
+	},
+	{
+		"type_A" : "ORGANISM",
+		"type_B" : "DISEASE",
+		"relation" : "Improve",
+		"probability" : 0.0010,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Stimulation",
+		"probability" : 0.0017,
+		
+		
+	},
+	{
+		"type_A" : "MUTATION",
+		"type_B" : "DISEASE",
+		"relation" : "Stimulation",
+		"probability" : 0.0017,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "COMPOUND",
+		"relation" : "Stimulation",
+		"probability" : 0.0017,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "DISEASE",
+		"relation" : "No effect",
+		"probability" : 0.0096,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "GENE",
+		"relation" : "Activation",
+		"probability" : 0.0145,
+		
+		
+	},
+	{
+		"type_A" : "SYMPTOM",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Weak",
+		"probability" : 0.0114,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "METABOLISM",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "COMPOUND",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "COMPOUND",
+		"relation" : "No effect",
+		"probability" : 0.0048,
+		
+		
+	},
+	{
+		"type_A" : "CELL_LINE",
+		"type_B" : "PROTEIN",
+		"relation" : "Binding",
+		"probability" : 0.0137,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "DISEASE",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DIET",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "CELL_LINE",
+		"type_B" : "PROTEIN",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "ORGANISM",
+		"type_B" : "SYMPTOM",
+		"relation" : "Increase symptoms",
+		"probability" : 0.0018,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "ORGANISM",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "ANATOMY",
+		"relation" : "Binding",
+		"probability" : 0.0137,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Improve",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "PROTEIN",
+		"relation" : "Upregulation",
+		"probability" : 0.0060,
+		
+		
+	},
+	{
+		"type_A" : "INTERVENTION_OR_PROCEDURE",
+		"type_B" : "SYMPTOM",
+		"relation" : "Reduce symptoms",
+		"probability" : 0.0027,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "PROTEIN",
+		"relation" : "Deactivation",
+		"probability" : 0.0333,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "GENE",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "ORGANISM",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Activation",
+		"probability" : 0.0072,
+		
+		
+	},
+	{
+		"type_A" : "INTERVENTION_OR_PROCEDURE",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "CELL_TYPE",
+		"relation" : "No effect",
+		"probability" : 0.0048,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "ANATOMY",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "CELL_TYPE",
+		"relation" : "No effect",
+		"probability" : 0.0048,
+		
+		
+	},
+	{
+		"type_A" : "ORGANISM",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Deactivation",
+		"probability" : 0.0333,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "ORGANISM",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "SYMPTOM",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "CELL_LINE",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "INTERVENTION_OR_PROCEDURE",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "GENE",
+		"relation" : "Binding",
+		"probability" : 0.0137,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Improve",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "PLANT",
+		"type_B" : "DISEASE",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "GENE",
+		"relation" : "Deactivation",
+		"probability" : 0.0333,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "DISEASE",
+		"relation" : "No effect",
+		"probability" : 0.0048,
+		
+		
+	},
+	{
+		"type_A" : "PLANT",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "ORGANISM",
+		"type_B" : "DISEASE",
+		"relation" : "Aggravate",
+		"probability" : 0.0002,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "BACTERIA",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "DISEASE",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "ORGANISM",
+		"type_B" : "DISEASE",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "PLANT",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "No effect",
+		"probability" : 0.0048,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "ANATOMY",
+		"relation" : "Improve",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "DIET",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "ANATOMY",
+		"relation" : "Aggravate",
+		"probability" : 0.0002,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "BACTERIA",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Activation",
+		"probability" : 0.0072,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "METABOLISM",
+		"relation" : "No effect",
+		"probability" : 0.0048,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "PROTEIN",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "ANATOMY",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "FOOD_OR_FOOD_PRODUCT",
+		"type_B" : "DISEASE",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Deactivation",
+		"probability" : 0.0333,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "ANATOMY",
+		"relation" : "Aggravate",
+		"probability" : 0.0002,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "METABOLISM",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "DISEASE",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "DISEASE",
+		"relation" : "No effect",
+		"probability" : 0.0048,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "CELL_TYPE",
+		"relation" : "Binding",
+		"probability" : 0.0137,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "GENE",
+		"relation" : "Upregulation",
+		"probability" : 0.0060,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "PROTEIN",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "PHENOTYPIC_ABNORMALITY",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "DIET",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "Stimulation",
+		"probability" : 0.0009,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "GENE",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "METABOLISM",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "DISEASE",
+		"relation" : "Activation",
+		"probability" : 0.0072,
+		
+		
+	},
+	{
+		"type_A" : "INTERVENTION_OR_PROCEDURE",
+		"type_B" : "PROTEIN",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "DISORDER_AND_SYNDROME",
+		"relation" : "No effect",
+		"probability" : 0.0048,
+		
+		
+	},
+	{
+		"type_A" : "METABOLISM",
+		"type_B" : "DISEASE",
+		"relation" : "Aggravate",
+		"probability" : 0.0002,
+		
+		
+	},
+	{
+		"type_A" : "ORGANISM",
+		"type_B" : "PROTEIN",
+		"relation" : "Deactivation",
+		"probability" : 0.0333,
+		
+		
+	},
+	{
+		"type_A" : "BACTERIA",
+		"type_B" : "PROTEIN",
+		"relation" : "Upregulation",
+		"probability" : 0.0060,
+		
+		
+	},
+	{
+		"type_A" : "DISEASE",
+		"type_B" : "DIET",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "DISORDER_AND_SYNDROME",
+		"type_B" : "PROTEIN",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "COMPOUND",
+		"type_B" : "CELL_LINE",
+		"relation" : "Inhibition",
+		"probability" : 0.0005,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "SYMPTOM",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "CELL_TYPE",
+		"type_B" : "PROTEIN",
+		"relation" : "Binding",
+		"probability" : 0.0137,
+		
+		
+	},
+	{
+		"type_A" : "GENE",
+		"type_B" : "GENE",
+		"relation" : "Weak",
+		"probability" : 0.0057,
+		
+		
+	},
+	{
+		"type_A" : "PROTEIN",
+		"type_B" : "GENE",
+		"relation" : "Downregulation",
+		"probability" : 0.0303,
+		
+		
+	}
+	
+]
